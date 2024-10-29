@@ -46,22 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in main..py.executor": "Run",
-    "Python tests.Python tests in test_calk.py.executor": "Run",
-    "Python tests.Python tests in tests_12_1.py.executor": "Run",
-    "Python tests.Python tests in tests_12_2.py.executor": "Run",
-    "Python.calk.executor": "Run",
-    "Python.main..executor": "Run",
-    "Python.my_test_file.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in main..py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_calk.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_12_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_12_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main..executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_test_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.my_test_file">
     <configuration name="my_test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Gnome" />
