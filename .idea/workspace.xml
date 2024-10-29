@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="885716e6-b06c-43ac-95b0-5b24f7afce48" name="Changes" comment="Цель: приобрести навык создания простейших Юнит-тестов">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="885716e6-b06c-43ac-95b0-5b24f7afce48" name="Changes" comment="Цель: освоить методы, которые содержит класс TestCase.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +28,12 @@
     &quot;assignee&quot;: &quot;Konstantin1983-Fail&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Konstantin1983-Fail/Urban_University.git",
-    "accountId": "c64854b6-263e-4e99-be7c-10a41b70259d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Konstantin1983-Fail/Urban_University.git&quot;,
+    &quot;accountId&quot;: &quot;c64854b6-263e-4e99-be7c-10a41b70259d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,16 +51,40 @@
     "Python tests.Python tests in main..py.executor": "Run",
     "Python tests.Python tests in test_calk.py.executor": "Run",
     "Python tests.Python tests in tests_12_1.py.executor": "Run",
+    "Python tests.Python tests in tests_12_2.py.executor": "Run",
     "Python.calk.executor": "Run",
     "Python.main..executor": "Run",
+    "Python.my_test_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore_missing_gitignore": "true",
     "last_opened_file_path": "C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in tests_12_1.py">
+  <component name="RunManager" selected="Python.my_test_file">
+    <configuration name="my_test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gnome" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_calk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Gnome" />
       <option name="ENV_FILES" value="" />
@@ -114,8 +137,25 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in tests_12_2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Gnome" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests_12_2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_test_file" />
+        <item itemvalue="Python tests.Python tests in tests_12_2.py" />
         <item itemvalue="Python tests.Python tests in tests_12_1.py" />
         <item itemvalue="Python tests.Python tests in test_calk.py" />
         <item itemvalue="Python.test_calk" />
