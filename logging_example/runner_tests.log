@@ -1,0 +1,16 @@
+2024-10-31 01:06:01,604 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "C:\Users\Konstantin\PycharmProjects\Gnome\tests_12_4.py", line 27, in test_run
+    runner = Runner(123, 10)  # Попробуй создать Runner с числом вместо строки
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Konstantin\PycharmProjects\Gnome\runner.py", line 6, in __init__
+    raise TypeError(f'Имя может быть только строкой, передано {type(name).__name__}')
+TypeError: Имя может быть только строкой, передано int
+2024-10-31 01:06:01,605 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "C:\Users\Konstantin\PycharmProjects\Gnome\tests_12_4.py", line 19, in test_walk
+    runner = Runner('Бегун', -5)  # Попробуй создать Runner с отрицательной скоростью
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Konstantin\PycharmProjects\Gnome\runner.py", line 13, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
