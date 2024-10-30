@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+f<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="885716e6-b06c-43ac-95b0-5b24f7afce48" name="Changes" comment="Цель: освоить методы, которые содержит класс TestCase.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition.py" beforeDir="false" afterPath="$PROJECT_DIR$/competition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_12_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,74 +21,96 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
+<component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Konstantin1983-Fail&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Konstantin1983-Fail/Urban_University.git&quot;,
-    &quot;accountId&quot;: &quot;c64854b6-263e-4e99-be7c-10a41b70259d&quot;
-  }
-}</component>
-  <component name="ProblemsViewState">
+</component>
+
+<component name="GitHubPullRequestSearchHistory">
+    <option name="lastFilter" value="OPEN" />
+    <option name="assignee" value="Konstantin1983-Fail" />
+</component>
+
+<component name="GithubPullRequestsUISettings">
+    <option name="url" value="https://github.com/Konstantin1983-Fail/Urban_University.git" />
+    <option name="accountId" value="c64854b6-263e-4e99-be7c-10a41b70259d" />
+</component>
+
+<component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2nvY0T3CjpvuAgGKgBRfaybZ92w" />
-  <component name="ProjectViewState">
+</component>
+
+<component name="ProjectColorInfo">
+    <option name="customColor" value="" />
+    <option name="associatedIndex" value="3" />
+</component>
+
+<component name="ProjectId" id="2nvY0T3CjpvuAgGKgBRfaybZ92w" />
+
+<component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in main..py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_calk.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_12_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_12_2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main..executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_test_file.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Python.my_test_file">
+</component>
+
+<component name="PropertiesComponent">
+    <option name="keyToString">
+        <option name="Python tests.Python tests in main..py.executor" value="Run" />
+        <option name="Python tests.Python tests in test_calk.py.executor" value="Run" />
+        <option name="Python tests.Python tests in tests_12_1.py.executor" value="Run" />
+        <option name="Python tests.Python tests in tests_12_2.py.executor" value="Run" />
+        <option name="Python.calk.executor" value="Run" />
+        <option name="Python.main..executor" value="Run" />
+        <option name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+        <option name="git-widget-placeholder" value="master" />
+        <option name="ignore_missing_gitignore" value="true" />
+        <option name="last_opened_file_path" value="C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml" />
+        <option name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    </option>
+</component>
+
+<component name="RunManager" selected="Python.my_test_file">
     <configuration name="my_test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Gnome" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
+        <module name="Gnome" />
+        <option name="ENV_FILES" value="" />
+        <option name="INTERPRETER_OPTIONS" value="" />
+        <option name="PARENT_ENVS" value="true" />
+        <envs>
+            <env name="PYTHONUNBUFFERED" value="1" />
+        </envs>
+        <option name="SDK_HOME" value="" />
+        <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        <option name="IS_MODULE_SDK" value="true" />
+        <option name="ADD_CONTENT_ROOTS" value="true" />
+        <option name="ADD_SOURCE_ROOTS" value="true" />
+        <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test_file.py" />
+        <option name="PARAMETERS" value="" />
+        <option name="SHOW_COMMAND_LINE" value="false" />
+        <option name="EMULATE_TERMINAL" value="false" />
+        <option name="MODULE_MODE" value="false" />
+        <option name="REDIRECT_INPUT" value="false" />
+        <option name="INPUT_FILE" value="" />
+        <method v="2" />
     </configuration>
+</component>
+
+<component name="PropertiesComponent">
+    <option name="keyToString">
+        <entry key="Python tests.Python tests in main..py.executor" value="Run" />
+        <entry key="Python tests.Python tests in test_calk.py.executor" value="Run" />
+        <entry key="Python tests.Python tests in tests_12_1.py.executor" value="Run" />
+        <entry key="Python tests.Python tests in tests_12_2.py.executor" value="Run" />
+        <entry key="Python.calk.executor" value="Run" />
+        <entry key="Python.main..executor" value="Run" />
+        <entry key="RunOnceActivity.ShowReadmeOnStart" value="true" />
+        <entry key="git-widget-placeholder" value="new-changes" />
+        <entry key="ignore_missing_gitignore" value="true" />
+        <entry key="last_opened_file_path" value="C:/Users/Konstantin/PycharmProjects/Gnome/.idea/vcs.xml" />
+        <entry key="settings.editor.selected.configurable" value="preferences.keymap" />
+    </option>
+</component>
+
+<component name="RunManager" selected="Python tests.Python tests in tests_12_2.py">
     <configuration name="test_calk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Gnome" />
+        <module name="Gnome" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +210,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729961159912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Цель: освоить методы, которые содержит класс TestCase.">
+      <option name="closed" value="true" />
+      <created>1730121222493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121222493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Цель: приобрести навык создания простейших Юнит-тестов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Цель: приобрести навык создания простейших Юнит-тестов" />
+    <MESSAGE value="Цель: освоить методы, которые содержит класс TestCase." />
+    <option name="LAST_COMMIT_MESSAGE" value="Цель: освоить методы, которые содержит класс TestCase." />
   </component>
 </project>
