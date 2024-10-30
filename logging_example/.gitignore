@@ -2,7 +2,7 @@
 __pycache__/
 
 # Исключить всю папку .idea, включая workspace.xml и другие файлы
-.idea/
+../.idea/
 
 # Исключить конкретный файл
 my_test_file.py
