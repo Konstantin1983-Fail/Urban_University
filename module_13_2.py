@@ -10,7 +10,7 @@ load_dotenv()
 
 # Получаем токен API из переменных окружения
 API_TOKEN = os.getenv('API_TOKEN')
-bot = Bot(token=API_TOKEN)  # Создаем экземпляр бота с токеном
+bot = Bot(token=API_TOKEN)  # Создаем экземпляр бота с токен
 dp = Dispatcher(bot)  # Создаем диспетчер для обработки обновлений
 
 
